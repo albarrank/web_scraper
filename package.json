@@ -1,0 +1,27 @@
+{
+  "name": "web_scraper",
+  "version": "1.0.0",
+  "description": "Scrapes certain web pages content",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/albarrank/web_scraper.git"
+  },
+  "author": "Kevin Albarran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/albarrank/web_scraper/issues"
+  },
+  "homepage": "https://github.com/albarrank/web_scraper#readme",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "cheerio": "^1.0.0-rc.3",
+    "ejs": "^2.6.1",
+    "express": "^4.17.1",
+    "express-handlebars": "^3.1.0",
+    "mongoose": "^5.5.12"
+  }
+}

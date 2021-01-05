@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/albarrank/web_scraper#readme",
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "cheerio": "^1.0.0-rc.3",
     "ejs": "^2.6.1",
     "express": "^4.17.1",
